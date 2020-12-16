@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: ./src
+source: ./src/index.html
 incremental: false
 highlighter: rouge
 gist:
